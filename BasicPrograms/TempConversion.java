@@ -11,6 +11,12 @@ public class TempConversion {
         System.out.println("Temperature in Celsius is " + temperature+"℃");
 
     }
+
+    public void celsiusToFahrenheit(float temperature){
+
+        System.out.println("Temperature in Fahrenheit is ");
+    }
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
